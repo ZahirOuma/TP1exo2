@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Impot</string>
+    <string name="nom">Nom :</string>
+    <string name="nbrPiece">Nombre de pièces :</string>
+    <string name="adresse">Adresse :</string>
+    <string name="surface">Surface :</string>
+</resources>
